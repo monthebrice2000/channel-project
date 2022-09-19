@@ -25,3 +25,8 @@ do a git-add/git-commit, with the commit message "Channel Specification".
  - éxecution synchrone
  - pas de parallélisme
 
+#### Preuve de fonctionnement : [![sequence diagram communication framework](https://github.com/monthebrice2000/channel-project/blob/master/sequence-diagram-Communication-Framework%20.jpg)](https://github.com/monthebrice2000/channel-project/blob/master/sequence-diagram-Communication-Framework%20.jpg)
+
+J'ai écrit un exemple du code qui se trouve dans le fichier [src/Main.java](https://github.com/monthebrice2000/channel-project/blob/master/src/Main.java)
+
+Le commit 'Channel Specification' se trouve dans [Channel Specification](https://github.com/monthebrice2000/channel-project/commit/636a5516c4f7a2eefc12b188f45eb8be1dea6286)
